@@ -1,0 +1,5 @@
+.vscode/
+build/bin/debug/*
+build/bin/release/*
+build/debug/*
+build/release/*
